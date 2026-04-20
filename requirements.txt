@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langgraph
+pypdf
+pymupdf
+faiss-cpu
+sentence-transformers
+python-dotenv
+openai
