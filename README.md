@@ -11,9 +11,9 @@ LegalDoc Navigator, uzun hukuk metinlerinden (mevzuat, kanun, tüzük vb.) ilgil
 - [x] FAISS ile yerel vektör veri tabanı kurulumu.
 
 ### 📅 2. Hafta: Gelişmiş RAG ve Sorgu İşleme
-- [ ] Retrieval (Geri Getirme) mekanizmasının optimize edilmesi.
-- [ ] OpenAI / Anthropic veya yerel LLM entegrasyonu.
-- [ ] Query Expansion (Sorgu Genişletme) ve HyDE (Hypothetical Document Embeddings) teknikleri.
+- [x] Retrieval (Geri Getirme) mekanizmasının optimize edilmesi.
+- [x] OpenAI / Anthropic veya yerel LLM entegrasyonu.
+- [x] Query Expansion (Sorgu Genişletme) ve HyDE (Hypothetical Document Embeddings) teknikleri.
 
 ### 📅 3. Hafta: Yeniden Sıralama (Reranking) ve LangGraph
 - [ ] Cross-Encoders kullanarak sonuçların yeniden sıralanması (Reranking).

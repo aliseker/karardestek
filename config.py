@@ -12,6 +12,7 @@ DB_DIR = os.path.join(BASE_DIR, "vector_db")
 EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"  # Turkish support
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
+LLM_MODEL_NAME = "gpt-4o-mini"
 
 # API Keys
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
